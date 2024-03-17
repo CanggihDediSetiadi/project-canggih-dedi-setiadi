@@ -1,0 +1,16 @@
+{
+  "resources/images/Dota.jpg": {
+    "file": "assets/Dota-29X06be7.jpg",
+    "src": "resources/images/Dota.jpg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-DFMGEaK5.js",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-D-sv12UV.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}
